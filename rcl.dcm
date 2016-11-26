@@ -1,0 +1,23 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP C
+D Конденсатор
+K capasitor
+$ENDCMP
+#
+$CMP CPOL
+D Электролитический конденсатор
+K capasitor
+$ENDCMP
+#
+$CMP L
+D Индуктивность
+K inductor
+$ENDCMP
+#
+$CMP R
+D Резистор
+K resistor
+$ENDCMP
+#
+#End Doc Library
