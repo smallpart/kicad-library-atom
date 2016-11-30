@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AGND
+D Аналоговая земля
+K gnd, ground, power
+$ENDCMP
+#
+$CMP GND
+D Земля
+K gnd, ground, power
+$ENDCMP
+#
+#End Doc Library
