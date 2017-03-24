@@ -15,6 +15,11 @@ D Индуктивность
 K inductor
 $ENDCMP
 #
+$CMP Potentiometer
+D Переменный резистор
+K potentiometer, reostat, resistor
+$ENDCMP
+#
 $CMP R
 D Резистор
 K resistor
