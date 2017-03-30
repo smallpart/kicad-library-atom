@@ -25,4 +25,9 @@ D Резистор
 K resistor
 $ENDCMP
 #
+$CMP Throttle
+D Дроссель
+K throttle, drossel
+$ENDCMP
+#
 #End Doc Library
